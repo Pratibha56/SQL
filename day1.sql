@@ -29,3 +29,4 @@ select  actor_id,first_name from actor_info where actor_id=2;
 select  first_name from actor_info where actor_id>2;
 select * from
 actor_info where first_name="ED";
+show databases;
